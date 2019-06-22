@@ -1,0 +1,15 @@
+{
+  "name": "mobx-react-inject-forward-ref-bug",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.8.0",
+    "mobx": "^5.10.1",
+    "mobx-react": "^6.1.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-test-renderer": "^16.8.6"
+  }
+}
